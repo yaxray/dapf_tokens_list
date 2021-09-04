@@ -8,7 +8,7 @@
       "chainId": 56,
       "address": "0x9c67ee6d0f3f12969abc92595b06cc1c93a60313",
       "symbol": "DAPF",
-      "name": "DAPF Invest Token (BSC)",
+      "name": "DAPF Invest Token",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/yaxray/logo_dapf/main/logo_dapf_200_200.png",
       "tags": ["bsc", "dapf", "bep20"]
@@ -17,7 +17,7 @@
       "chainId": 1,
       "address": "0xbb9284484cb9a2bc7950a1276edba2f6358ea677",
       "symbol": "DAPF",
-      "name": "DAPF Invest Token (ETH)",
+      "name": "DAPF Invest Token",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/yaxray/logo_dapf/main/logo_dapf_200_200.png",
       "tags": ["eth", "dapf", "erc20"]
