@@ -1,24 +1,22 @@
 {
   "name": "DAPF Tokenlist",
   "logoURI": "https://raw.githubusercontent.com/yaxray/logo_dapf/main/logo_dapf_200_200.png",
-  "keywords": ["dapf", "tokens", "list"],
+  "keywords": ["dapftokenlist", "tokens"],
   "timestamp": "2021-09-05T18:18:00+00:00",
   "tokens": [
     {
       "chainId": 56,
       "address": "0x9c67ee6d0f3f12969abc92595b06cc1c93a60313",
       "symbol": "DAPF",
-      "name": "DAPF Invest Token",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/yaxray/logo_dapf/main/logo_dapf_200_200.png"
+      "name": "DAPF",
+      "decimals": 6
     },
     {
       "chainId": 1,
       "address": "0xbb9284484cb9a2bc7950a1276edba2f6358ea677",
       "symbol": "DAPF",
-      "name": "DAPF Invest Token",
-      "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/yaxray/logo_dapf/main/logo_dapf_200_200.png"
+      "name": "DAPF",
+      "decimals": 6
     }
   ],
   "version": {
