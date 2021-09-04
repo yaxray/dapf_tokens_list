@@ -1,0 +1,31 @@
+{
+  "name": "DAPF Tokenlist",
+  "logoURI": "https://raw.githubusercontent.com/yaxray/logo_dapf/main/logo_dapf_200_200.png",
+  "keywords": ["dapf", "tokens", "list"],
+  "timestamp": "2021-09-05T18:18:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x9c67ee6d0f3f12969abc92595b06cc1c93a60313",
+      "symbol": "DAPF",
+      "name": "DAPF Invest Token (BSC)",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/yaxray/logo_dapf/main/logo_dapf_200_200.png",
+      "tags": ["bsc", "dapf", "bep20"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xbb9284484cb9a2bc7950a1276edba2f6358ea677",
+      "symbol": "DAPF",
+      "name": "DAPF Invest Token (ETH)",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/yaxray/logo_dapf/main/logo_dapf_200_200.png",
+      "tags": ["eth", "dapf", "erc20"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
